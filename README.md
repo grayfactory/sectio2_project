@@ -12,7 +12,11 @@
     2) 주연배우 3명까지 배우들의 Wiki page crawling 해서 각종 수상 & 노미네이트 횟수를 Count 하였음
 
 ## # Code
-- ***1_Preprocessing*** : data cleaning & preprocessing & merge crawoling 결과
-- ***2_actor_wiki_crawling & 3_imdb_crawling*** : request, beautifulSoup으로 크롤링
-- ***4_FeatureEngineer_model*** : Feature Engineering과 model을 만들고 튜닝 & test
-- ***5_shap_on_colab*** : shap 패키지가 로컬에 설치되지 않기 때문에 dpd, shap은 코랩에서 따로 작성하였음
+- ***1_Preprocessing*** 
+    - data cleaning & preprocessing & merge crawoling 결과
+- ***2_actor_wiki_crawling & 3_imdb_crawling***
+    - request, beautifulSoup으로 크롤링
+- ***4_FeatureEngineer_model***
+    - Feature Engineering과 model을 만들고 튜닝 & test
+- ***5_shap_on_colab*** 
+    - shap 패키지가 로컬에 설치되지 않기 때문에 dpd, shap은 코랩에서 따로 작성하였음
