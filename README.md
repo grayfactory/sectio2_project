@@ -1,5 +1,4 @@
 # Section 2 project - 영화평점예측 모델
----
 # # About Data Sets
 ### - 데이터 출처
 - kaggle : [The movies data set](https://www.kaggle.com/rounakbanik/the-movies-dataset)
