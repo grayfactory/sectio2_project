@@ -1,5 +1,5 @@
 # Section 2 project - 영화평점예측 모델
-# # About Data Sets
+## # About Data Sets
 ### - 데이터 출처
 - kaggle : [The movies data set](https://www.kaggle.com/rounakbanik/the-movies-dataset)
     - Metadata on over 45,000 movies. 26 million ratings from over 270,000 users.
@@ -11,7 +11,7 @@
     1) tmdb api에서 budset, gross 정보가 누락된 영화들의 imdb page를 crawling 하였음
     2) 주연배우 3명까지 배우들의 Wiki page crawling 해서 각종 수상 & 노미네이트 횟수를 Count 하였음
 
-# # Code
+## # Code
 - 1_Preprocessing : data cleaning & preprocessing & merge crawoling 결과
 - 2_actor_wiki_crawling & 3_imdb_crawling : request, beautifulSoup으로 크롤링
 - 4_FeatureEngineer_model : Feature Engineering과 model을 만들고 튜닝 & test
